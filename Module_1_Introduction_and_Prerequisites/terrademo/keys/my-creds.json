@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-folio-412500",
+  "private_key_id": "835df544d72c99c64ad23c6126d43ee62ab2e0bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/wQD7k+IVCk+7\ndKf38hVcLPWhHemIVRH3u7jWUDhoCtrRelvFgMSt+AAc42stHDn5LafF8YQpXus4\nbjcouAR+lAVu5mQ6Az9rxCs1clLa2wKkehODU4OSIOdNMrGfPC6trJ73urOwUEnz\nb7Cmzs3rAkaMJUgAZ189FKbleECNZrnRtYhSkR03HZI/0fJ49ZIZlTr/yXeGS2tf\ncLYpEgj3zB1YmsdAzjAuWbew0bjvGqfAZArmkJDFrRYIAxk8tNEmHIrwRW/sncLl\nyHEpul20/SKlkMLd9lswH7e2foyd8EYXuTuAg/8oQbpITgmKqlMVfLB121MS19gT\niCRibovtAgMBAAECggEAJFKcy0sAxzAIGO/41lqUybxZff7SyyikKet1EKGrAahW\nuVoGcsPY3cRtzwsUNPwVDjqj/naorIaGo46bI7sx3MFQwyhgwW12kMUc0ze38q2M\nU1gthJGoCWDyt5ib9Vga1nqttSr4WTRoQbT9PyfK8VKhxu/T8wGh1InqMGsGPVJt\nJVpNZt2OwHgdGPCmJ616wB1gLJ1gfXPoJFWOngXJrG1tF/hT+wWjDi4fnys0hHxb\nH2Ca7Ihh1dOh/Ru0c3VdBcZBNN4MOhxsdsr9jN5oY+K9Cm3n8tTSufhW0TTXGxmY\nixjkbS8PhPcLeY9MeGzUDnc2EH31/fr7sqKA8zwAmQKBgQDylWnpzCL1l2SY3lyr\n1FvvqhzNTgQVrNCXBumYeOGsqO0DuE30sFJxk+81Rfj+FTmJS19RAJkZCEhTY9XR\njqBn7tlrhZaLCVok9XD59R0SzECiSCKHAAokqCUn4a/63nePAbB403QsMPKtJhry\ngWyeAqDE64DIObYOnvCgjuULFQKBgQDKW+y0Jf6u2+IfdleymZM/nY04IrFvF47E\nuvsaNj2duvuMBqAacuD76M9c4AgZRIaf5fu5TXbyesgiQL8afBToA6/2lBySkut4\nDYBYhL7Bgzgo2BFKT/662mF6RpfIL0bmrSpDwnjpep/8k9qyCbGXCvH5X42l2Rit\ny2IpCmLTeQKBgDNtpcShOJAkhnk6Ox9aqBsJT43fClKmDprWJlPi3MVEEuuE+VH0\nx6W4nTAII5+KVGZdClob7Fk4Pk0fj0ccG7mtE38OFTpowymut0LmykEf+FvvOxKv\n2XaoByiLWkmvPF2fGBClk62CuxAmUfQzqBlfqUHWQ7kvMv+qho0jfj95AoGBALEp\n081Qqm4qggkrkdIClKEQbc/kx9VMGalxTl//duh+CLbqIgel5gWGKO3WEiEVFowt\nTLpJ8MaP6mHar7UfRypt+AN4Xp+Q02iS4XgeF+fR2zwfFtwptwmeIdNstHwFsBxL\nJQKX40X+Hs2CIOjYhcuIQJskJh46OFoIAxONTUJ5AoGBAOzwec2b8gkjtcT22q8t\nLUn1HmXWH3f5ReytUFQB9XVuQos8JPxL8gjfMf+ayztV/eddUbyACcTWvOhe05MF\nZQuafiPfvXGzBO+colAvsnu1NvRkRxoHcIDYGuyK8AIexOYg6ZYRM8JZssx6HvKJ\n1+UnpSJThJl1u2ahJ3cqYKXT\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-runner@savvy-folio-412500.iam.gserviceaccount.com",
+  "client_id": "116152431000656137274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-runner%40savvy-folio-412500.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
