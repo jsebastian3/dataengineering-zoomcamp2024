@@ -35,3 +35,4 @@ terraform.rc
 
 # Ignore all JSON files
 *.json
+my-creds.json
